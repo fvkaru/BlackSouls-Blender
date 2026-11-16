@@ -1,0 +1,20 @@
+✦ ───────────────────────────── ✦
+
+💠  Werewolf - Black Souls
+
+✦ ───────────────────────────── ✦
+
+☕  MODEL STATS
+
+🔹 Vertices     555
+
+🔸 Edges        955
+
+🔹 Faces        421
+
+🔸 Triangles    913
+
+
+✦ ───────────────────────────── ✦
+
+˚₊‧ Made by Fvkaru with lots of love ♡ ‧₊˚
